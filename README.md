@@ -1,11 +1,12 @@
-<h2 align="left">- 👋 Hi, I’m Caio
-- 👀 I’m interested in software development, cybersecurity, and technology innovation
-- 🌱 I’m currently learning C, Java, Python and information security techniques
-- 💞️ I’m looking to collaborate on open-source projects, cybersecurity challenges, and innovative tech solutions.
-- 📫 You can reach me at caiovasconcelos01@live.com
-- ⚡ Fun fact: I’m better at debugging C code than finding where I left my socks</h2>
+<h2 align="left">
+  - 👋 Hi, I’m Caio<br>
+  - 👀 I’m interested in software development, cybersecurity, and technology innovation<br>
+  - 🌱 I’m currently learning C, Java, Python and information security techniques<br>
+  - 💞️ I’m looking to collaborate on open-source projects, cybersecurity challenges, and innovative tech solutions<br>
+  - 📫 You can reach me at caiovasconcelos01@live.com<br>
+  - ⚡ Fun fact: I’m better at debugging C code than finding where I left my socks
+</h2>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiovaz1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="145" alt="stats graph"  />
