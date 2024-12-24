@@ -4,7 +4,6 @@
   - 🌱 I’m currently learning C, Java, Python and information security techniques<br>
   - 💞️ I’m looking to collaborate on open-source projects, cybersecurity challenges, and innovative tech solutions<br>
   - 📫 You can reach me at caiovasconcelos01@live.com<br>
-  - ⚡ Fun fact: I’m better at debugging C code than finding where I left my socks
 </h2>
 
 
