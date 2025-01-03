@@ -1,7 +1,7 @@
 <h3 align="left">
   - 👋 Hi, I’m Caio<br>
   - 👀 I’m interested in software development, cybersecurity, and technology innovation<br>
-  - 🌱 I’m currently learning C, Java, Python and information security techniques<br>
+  - 🌱 I’m currently learning Java, Python and information security techniques<br>
   - 💞️ I’m looking to collaborate on open-source projects, cybersecurity challenges, and innovative tech solutions<br>
   - 📫 You can reach me at caiovasconcelos01@live.com<br>
 </h3>
